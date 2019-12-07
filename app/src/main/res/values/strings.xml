@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RockPaperScissors</string>
+    <string name="title">猜拳遊戲</string>
+    <string name="com">電腦出拳</string>
+    <string name="me">玩家出拳</string>
+    <string name="btnResult">查看結果</string>
+    <string name="btnBack">返回</string>
+
+</resources>
